@@ -1,0 +1,9 @@
+{
+    "name": "my-project",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "3"
+    }
+}
